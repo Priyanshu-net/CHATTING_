@@ -6,6 +6,8 @@
 
 The Real-Time Messaging App is a cross-platform mobile application built using Flutter, which allows users to communicate with each other instantly. It leverages Firebase for real-time messaging, user authentication, and data storage. The app provides a modern and user-friendly interface, making it easy for users to connect and exchange messages in real-time.
 
+This project was developed during even semester projects programme organized by the Coding Club at IIT Guwahati. The Club provided valuable guidance and mentorship, inspiring the participants to bring this project to life and showcase their skills and creativity
+
 ## Features
 
 - Real-Time Messaging: Users can send and receive messages in real-time using Firebase's real-time database.
